@@ -4,7 +4,7 @@
   </h1>
 </p>
 
-This repository contains a curated list of resources addressing SLAM related task employing Diffusion, including optical flow, view/feature correspondences, stereo matching, depth estimation, 3D reconstruction, pose estimation, etc.
+This repository contains a curated list of resources addressing SLAM related task employing Diffusion Model, including optical flow, view/feature correspondences, stereo matching, depth estimation, 3D reconstruction, pose estimation, etc.
 
 If you find some ignored papers, **feel free to [*create pull requests*](https://github.com/KwanWaiPang/Awesome-Transformer-based-SLAM/blob/pdf/How-to-PR.md), or [*open issues*](https://github.com/KwanWaiPang/Awesome-Diffusion-based-SLAM/issues/new)**. 
 
