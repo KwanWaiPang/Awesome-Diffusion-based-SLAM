@@ -47,6 +47,7 @@ or 3D reconstruction
 
 | Year | Venue | Paper Title | Repository | Note |
 |:----:|:-----:| ----------- |:----------:|:----:|
+|2025|`arXiv`|[Scene Splatter: Momentum 3D Scene Generation from Single Image with Video Diffusion Model](https://arxiv.org/pdf/2504.02764)|---|[website](https://shengjun-zhang.github.io/SceneSplatter/)|
 |2025|`arXiv`|[Can Video Diffusion Model Reconstruct 4D Geometry ?](https://arxiv.org/pdf/2503.21082)|---|[website](https://wayne-mai.github.io/publication/sora3r_arxiv_2025/)<br>Sora3R|
 |2025|`arXiv`|[Bolt3D: Generating 3D Scenes in Seconds](https://arxiv.org/pdf/2503.14445)|---|[website](https://szymanowiczs.github.io/bolt3d)|
 |2025|`arXiv`|[Stable Virtual Camera: Generative View Synthesis with Diffusion Models](https://arxiv.org/pdf/2503.14489)|[![Github stars](https://img.shields.io/github/stars/Stability-AI/stable-virtual-camera.svg)](https://github.com/Stability-AI/stable-virtual-camera) |---|
