@@ -47,6 +47,7 @@ or 3D reconstruction
 
 | Year | Venue | Paper Title | Repository | Note |
 |:----:|:-----:| ----------- |:----------:|:----:|
+|2025|`arXiv`|[SpatialCrafter: Unleashing the Imagination of Video Diffusion Models for Scene Reconstruction from Limited Observations](https://arxiv.org/pdf/2505.11992)|---|---|
 |2025|`arXiv`|[Geo4D: Leveraging Video Generators for Geometric 4D Scene Reconstruction](https://arxiv.org/pdf/2504.07961)|[![Github stars](https://img.shields.io/github/stars/jzr99/Geo4D.svg)](https://github.com/jzr99/Geo4D)|[website](https://geo4d.github.io/)<br>video generator + MonST3R/DUSt3R|
 |2025|`arXiv`|[Scene Splatter: Momentum 3D Scene Generation from Single Image with Video Diffusion Model](https://arxiv.org/pdf/2504.02764)|---|[website](https://shengjun-zhang.github.io/SceneSplatter/)|
 |2025|`arXiv`|[Can Video Diffusion Model Reconstruct 4D Geometry ?](https://arxiv.org/pdf/2503.21082)|---|[website](https://wayne-mai.github.io/publication/sora3r_arxiv_2025/)<br>Sora3R|
